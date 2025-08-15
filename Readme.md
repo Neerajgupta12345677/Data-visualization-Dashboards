@@ -28,7 +28,6 @@ Each project demonstrates my ability to transform raw data into meaningful insig
 
 The repository is organized into separate folders for each tool, with individual documentation and resources.
 
----
 
 # data-visualizations - 
 
