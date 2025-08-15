@@ -1,4 +1,8 @@
+
+
 ## 📊 Power BI Dashboard – Business Optimization
+
+---
 
 ### 🔍 Overview
 
@@ -11,9 +15,12 @@ It is designed for decision-makers, analysts, and operations teams who need real
 - Drive informed business strategies backed by data.
 The dashboard leverages KPI indicators, filters, and clean visuals to tell a data story that is both actionable and easy to understand.
 
+---
+
 ## Dashboard Preview
 <img width="1778" height="745" alt="Image" src="https://github.com/user-attachments/assets/e00b987f-0ea5-4dfa-9bf4-a4be26d69c67" />
 
+---
 
 ### 📌 Key Business Metrics
 Metric	Value	Description
@@ -22,12 +29,14 @@ Metric	Value	Description
 📊 Average Daily Loss	2.97K	The average financial loss per day, providing a quick daily performance indicator.\
 🎯 Core Features
 
-
+---
 
 ### 🔎 Interactive Filters
 
 Filter data by Product Name and Order Date to focus on specific segments.\
 Combine filters for more granular, targeted analysis.
+
+---
 
 ### 📖 Data Storytelling
 
@@ -35,17 +44,23 @@ Minimalist dark-themed visuals with modern design aesthetics.
 
 Strategic placement of KPIs to make insights instantly noticeable.
 
+---
+
 ### 📌 KPI Cards
 
 High-level summary metrics for executives.
 
 Bold typography and clear formatting to ensure readability.
 
+---
+
 ### 📈 Scalability
 
 Data model supports adding new data sources without needing a redesign.
 
 Prepared for scaling up to larger datasets or more KPIs.
+
+---
 
 ### ⚡ Performance Optimization
 
@@ -60,6 +75,8 @@ Efficient data modeling and DAX measures ensure smooth user experience, even wit
 `Data Modeling `– Establishes optimized relationships for faster queries.
 
 `Excel / SQL` – Possible upstream data sources for integration.
+
+---
 
 ## 🚀 How to Use
 
@@ -81,6 +98,7 @@ Apply filters to focus on a specific product, date range, or both.\
 Hover over visuals for detailed tooltips.\
 Explore all report pages for different perspectives.
 
+---
 
 ### 📢 Business Value
 
@@ -93,3 +111,5 @@ By using this dashboard, organizations can :
 - Allocate resources efficiently based on data-backed priorities.
 
 - Communicate performance clearly to stakeholders.
+
+---
