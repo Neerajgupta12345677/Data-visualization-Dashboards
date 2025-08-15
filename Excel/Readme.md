@@ -1,3 +1,5 @@
+---
+
 #  📌 Problem Statement
 
 The goal of this dashboard is to provide a comprehensive view of production performance across different categories, managers, and time periods.
@@ -9,6 +11,7 @@ Identify cost-heavy production types.
 - Compare average production costs for each product type.
 
 By consolidating these KPIs into a single view, decision-makers can optimize production planning and improve cost efficiency.
+
 ---
 
 ## DashBoard Preview
