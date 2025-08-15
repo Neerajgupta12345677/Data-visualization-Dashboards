@@ -5,6 +5,8 @@ This interactive **Tableau Dashboard** provides deep insights into transactions 
 It is designed to help businesses and analysts understand payment trends, merchant performance, and demographic-based transaction behavior.
 
 ---
+## DashBoard Preview 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01682875-9766-4352-aaee-fdcf7c91233b" />
 
 ---
 
