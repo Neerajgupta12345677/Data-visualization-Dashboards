@@ -9,12 +9,12 @@ Each project demonstrates my ability to transform raw data into meaningful insig
 
 ## Some Dashoard Example's  - 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01682875-9766-4352-aaee-fdcf7c91233b" />
-
----
-
----
 <img width="1778" height="745" alt="Image" src="https://github.com/user-attachments/assets/95567e27-baca-402d-94e2-dae824c358a5" />
+
+---
+
+---
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01682875-9766-4352-aaee-fdcf7c91233b" />
 
 ---
 
