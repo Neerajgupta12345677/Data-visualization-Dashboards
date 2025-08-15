@@ -10,6 +10,9 @@ It is designed for decision-makers, analysts, and operations teams who need real
 - Drive informed business strategies backed by data.
 The dashboard leverages KPI indicators, filters, and clean visuals to tell a data story that is both actionable and easy to understand.
 
+## Dashboard Preview
+<img width="1778" height="745" alt="Image" src="https://github.com/user-attachments/assets/e00b987f-0ea5-4dfa-9bf4-a4be26d69c67" />
+
 ### 📌 Key Business Metrics
 Metric	Value	Description
 💰 Total Profit	301K	The sum of all earnings generated from operations within the analyzed period.\
