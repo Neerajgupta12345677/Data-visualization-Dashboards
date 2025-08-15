@@ -8,6 +8,7 @@ Passionate about building dashboards that translate data into actionable insight
 Welcome to my **Data Visualization Portfolio** — a collection of interactive dashboards created using **Microsoft Excel**, **Power BI**, and **Tableau**.  
 Each project demonstrates my ability to transform raw data into meaningful insights through effective visualization.
 
+
 ---
 
 ## Dashboard Examples
