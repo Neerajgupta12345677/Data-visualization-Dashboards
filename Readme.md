@@ -2,12 +2,14 @@
 
 # 📊 Data Visualization Dashboards
 
+**Neeraj Gupta** — Data Analyst & BI Developer  
+Passionate about building dashboards that translate data into actionable insights.  
 Welcome to my **Data Visualization Portfolio** — a collection of interactive dashboards created using **Microsoft Excel**, **Power BI**, and **Tableau**.  
 Each project demonstrates my ability to transform raw data into meaningful insights through effective visualization.
 
 ---
 
-## Some Dashoard Example's  - 
+## Dashboard Examples
 
 <img width="1778" height="745" alt="Image" src="https://github.com/user-attachments/assets/95567e27-baca-402d-94e2-dae824c358a5" />
 
@@ -52,3 +54,8 @@ The repository is organized into separate folders for each tool, with individual
  -  README.md - Detailed description of Tableau dashboards\
  -  tableau_dashboard.png  - Screenshot of Tableau dashboard\
  -  dashboard.twbx  - Tableau packaged workbook
+
+## 🚀 How to View Dashboards
+- Navigate to the tool folder (Excel, Power-BI, Tableau).
+- Open the README inside each folder for details and insights.
+- Screenshots are provided for quick viewing.
