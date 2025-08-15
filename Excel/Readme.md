@@ -10,6 +10,10 @@ Identify cost-heavy production types.
 
 By consolidating these KPIs into a single view, decision-makers can optimize production planning and improve cost efficiency.
 
+## DashBoard Preview
+<img width="1096" height="792" alt="Image" src="https://github.com/user-attachments/assets/ba7e37a6-58b5-4239-93b6-fb3c58df2204" />
+
+
 #  🛠 Steps Followed
 Step 1 : Imported production, cost, and managerial task data into  Excel.\
 Step 2 : Cleaned and standardized the dataset — corrected category names, formatted dates, removed nulls.
