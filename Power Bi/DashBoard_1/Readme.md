@@ -1,4 +1,5 @@
 ## 📊 Power BI Dashboard – Business Optimization
+
 ### 🔍 Overview
 
 This Power BI dashboard provides a comprehensive, interactive, and visually appealing way to monitor business performance.
@@ -13,12 +14,14 @@ The dashboard leverages KPI indicators, filters, and clean visuals to tell a dat
 ## Dashboard Preview
 <img width="1778" height="745" alt="Image" src="https://github.com/user-attachments/assets/e00b987f-0ea5-4dfa-9bf4-a4be26d69c67" />
 
+
 ### 📌 Key Business Metrics
 Metric	Value	Description
 💰 Total Profit	301K	The sum of all earnings generated from operations within the analyzed period.\
 📉 Total Loss	8M	Cumulative losses incurred, helping highlight inefficiencies and risk areas.\
 📊 Average Daily Loss	2.97K	The average financial loss per day, providing a quick daily performance indicator.\
 🎯 Core Features
+
 
 
 ### 🔎 Interactive Filters
