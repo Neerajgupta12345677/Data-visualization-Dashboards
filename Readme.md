@@ -4,8 +4,6 @@
 Welcome to my **Data Visualization Portfolio** — a collection of interactive dashboards created using **Microsoft Excel**, **Power BI**, and **Tableau**.  
 Each project demonstrates my ability to transform raw data into meaningful insights through effective visualization.
 
-## Dashboard Preview
-<img width="1778" height="745" alt="Image" src="https://github.com/user-attachments/assets/e00b987f-0ea5-4dfa-9bf4-a4be26d69c67" />
 
 
 ## 🗂 Repository Structure
