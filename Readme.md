@@ -1,7 +1,7 @@
 --- 
 
 # 📊 Data Visualization Dashboards
-**Neeraj Gupta** - Power Bi Developer and Data Analyst 
+Neeraj Gupta - Power Bi Developer and Data Analyst 
 Welcome to my **Data Visualization Portfolio** — a collection of interactive dashboards created using **Microsoft Excel**, **Power BI**, and **Tableau**.  
 Each project demonstrates my ability to transform raw data into meaningful insights through effective visualization.
 
