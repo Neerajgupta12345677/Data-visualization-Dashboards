@@ -9,10 +9,12 @@ Identify cost-heavy production types.
 - Compare average production costs for each product type.
 
 By consolidating these KPIs into a single view, decision-makers can optimize production planning and improve cost efficiency.
+---
 
 ## DashBoard Preview
 <img width="1096" height="792" alt="Image" src="https://github.com/user-attachments/assets/ba7e37a6-58b5-4239-93b6-fb3c58df2204" />
 
+---
 
 #  🛠 Steps Followed
 Step 1 : Imported production, cost, and managerial task data into  Excel.\
@@ -42,6 +44,7 @@ Pie Chart for Average Production Cost by Product Type
 
 Step 6 : Designed a one-page dashboard with an interactive layout linking slicers to all visuals.
 
+---
 
    # 📈 Insights from the Dashboard
 [1] Cost Analysis
@@ -64,6 +67,7 @@ Furniture has the highest average production cost at 180.4 per unit.
 
 Machinery is the most cost-efficient at 109.0 per unit.
 
+---
 
   #  📂 Tools & Techniques Used
 
@@ -72,12 +76,15 @@ Microsoft Excel: Pivot Tables, Slicers, Conditional Formatting, 3D and 2D Charti
 Data Visualization: Column, Bar, Line, and Pie charts.\
 Business Intelligence: KPI tracking, interactive slicers, performance benchmarking.
 
+---
+
    # 📌 Business Impact
 
 Time Efficiency: Automated reporting reduced preparation time from hours to minutes.\
 Better Decision-Making: Real-time filtering allows quick identification of key issues.\
 Cost Control: Clear visibility into cost-heavy categories aids in budget optimization.
 
+---
 
   # 🚀 How to Use
 
@@ -122,3 +129,4 @@ Machinery = 109.0\
 Electronics = 108.4 (lowest)
 
 ### Prioritize process/ sourcing improvements for Furniture to reduce per-unit cost.
+---
