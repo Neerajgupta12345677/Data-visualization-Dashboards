@@ -6,6 +6,7 @@ Welcome to my **Data Visualization Portfolio** — a collection of interactive d
 Each project demonstrates my ability to transform raw data into meaningful insights through effective visualization.
 
 ---
+
 ## Some Dashoard Preview Example - 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01682875-9766-4352-aaee-fdcf7c91233b" />
@@ -22,7 +23,6 @@ Each project demonstrates my ability to transform raw data into meaningful insig
 
 ---
 
----
 
 ## 🗂 Repository Structure
 
